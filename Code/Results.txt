@@ -1,0 +1,13 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\harshjain>cd C:\Users\harshjain\Desktop\Question4
+
+C:\Users\harshjain\Desktop\Question4>cd C:\Users\harshjain\Desktop\Question4\Sou
+rceCode
+
+C:\Users\harshjain\Desktop\Question4\SourceCode>javac *.java
+
+C:\Users\harshjain\Desktop\Question4\SourceCode>java Test
+Accuracy for train data is 96.8944099378882%.
+Accuracy for test data is 83.16831683168317%.
